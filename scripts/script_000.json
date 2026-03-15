@@ -127,7 +127,7 @@
     "nom_orig": "Less[SP]thuggish[SP]student",
     "texte_orig": "H-Here,[SP]we're[SP]done[SP]borrowing[SP]this!\nSeeya!",
     "nom_fr": "Voyou 2",
-    "texte_fr": "T-Tiens, on a fini de t'emprunter ça !\nSalut !"
+    "texte_fr": "T-Tiens, on te rend ça !\nSalut !"
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Just[SP]so[SP]long[SP]as[SP]you[SP]understand,[SP]hahaha!\nAhhh,[SP]what[SP]a[SP]delight[SP]children[SP]are!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Tres bien, hahaha! Ah,qu'ils sont adorables ces jeunes!"
+    "texte_fr": "Tres bien, hahaha! Ah, qu'ils sont adorables ces jeunes!"
   },
   {
     "id": 14,
