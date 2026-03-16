@@ -6,8 +6,8 @@
     "data_size": 102,
     "nom_orig": "Lisa",
     "texte_orig": "Huh?[SP]Looks[SP]like[SP]the[SP]principal's[SP]not[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Hein? Le proviseur n'a pas l'air d'être là."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 106,
     "nom_orig": "Lisa",
     "texte_orig": "Wai![SP]Hey,[SP]you![SP]Have[SP]you[SP]seen[SP]the[SP]principal?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Hé, toi! Est-ce que t'as vu le proviseur?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 258,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Uh,[SP]no,[SP]we've[SP]searched[SP]everywhere[SP]and\nhe's[SP]nowhere[SP]to[SP]be[SP]found.[SP]Where'd[SP]he[SP]go\nwith[SP]the[SP]school[SP]in[SP]such[SP]chaos...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéen",
+    "texte_fr": "Euh, non, on a cherché partout mais\nil est introuvable. Où est-ce qu'il peut être\nquand le lycée est si chaotique...? "
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 192,
     "nom_orig": "Female[SP]student",
     "texte_orig": "I[SP]was[SP]so[SP]sure[SP]Principal[SP]Hanya[SP]would[SP]be\nable[SP]to[SP]handle[SP]this[SP]curse[SP]stuff,[SP]too!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéenne",
+    "texte_fr": "J'étais certaine que le proviseur saurait s'occuper de cette malédiction !"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 266,
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]great[SP]Michel[SP]comes[SP]all[SP]the[SP]way[SP]to\nSevens[SP]and[SP]its[SP]own[SP]principal[SP]isn't[SP]here!?\n*sigh*[1205][001E][SP]The[SP]great[SP]rock[SP]'n[SP]roll[SP]swindle!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Le grand Michel est venu de loin pour aller \nà Sevens tout ça pour que le proviseur ne soit même pas là!? \n*soupir*[1205][001E]La Grande Escroquerie du Rock 'n' Roll!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 160,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Huh?[SP]Are[SP]you[SP]a[SP]student[SP]from[SP]Cuss...[1205][001E]\nI[SP]mean,[SP]Kasugayama[SP]High?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéen",
+    "texte_fr": "Hein? t'es un lycéen du lycée Cuss...[1205][001E]je veux dire, le lycée Kasugayama?"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 178,
     "nom_orig": "Eikichi",
     "texte_orig": "Okay![SP]Time[SP]to[SP]introduce[SP]to[SP]one[SP]and[SP]all\nthe[SP]headlining[SP]act,[SP]yours[SP]truly,[SP]Mi--",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Okay! C'est le moment de vous présenter le rôle\nprincipal de la pièce, le seul et unique Mi--"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 116,
     "nom_orig": "Male[SP]student",
     "texte_orig": "This[SP]guy's[SP]got[SP]Cuss[SP]High[SP]emblems[SP]on[SP]him!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéen",
+    "texte_fr": "Ce gars porte l'insigne du Lycée Cuss!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 186,
     "nom_orig": "Eikichi",
     "texte_orig": "Goddamn[SP]cursed[SP]creeps![SP]What's[SP]with[SP]this\nschool!?[SP]What[SP]did[SP]I[SP]do[SP]to[SP]deserve[SP]this!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Malédiction de merde! Qu'est-ce qui va pas avec ce \nlycée!? Qu'est-ce que j'ai fait pour mériter ça?"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 150,
     "nom_orig": "Lisa",
     "texte_orig": "Serves[SP]you[SP]right[SP]for[SP]coming[SP]to[SP]Sevens\nwith[SP]a[SP]Cuss[SP]High[SP]emblem[SP]on!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Bien fait! T'aurais pas du venir à Sevens\nen portant l'insigne du lycée Cuss."
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 186,
     "nom_orig": "Eikichi",
     "texte_orig": "WHAT!?[SP]Okay,[SP]back[SP]up![SP]This[SP]whole[SP]thing\nhappened[SP]because[SP]YOU[SP]summoned[SP]that[SP]Joker!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "QUOI!? Okay, pause! Tout ça arrive parce que\nTU as invoqué LE Joker!"
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 138,
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]take[SP]some[SP]responsibility[SP]and[SP]do\nsomething[SP]about[SP]this!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Donc prends tes responsabilités et\nrègle tout ça!"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 222,
     "nom_orig": "Lisa",
     "texte_orig": "Kehhei![SP]Now[SP]you've[SP]crossed[SP]a[SP]line,[SP]buster!\nHow[SP]was[SP]I[SP]supposed[SP]to[SP]know[SP]at[SP]the[SP]time\nwhat[SP]would[SP]happen!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "T'es chiant! Tu m'énerves mon gars!\nComment j'étais sensé deviné ce qui allait ce passer!?"
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 240,
     "nom_orig": "Lisa",
     "texte_orig": "And[SP]what's[SP]with[SP]all[SP]your[SP]big[SP]talk!?[SP]You're\njust[SP]an[SP]Undie[SP]Boss[SP]who[SP]pervs[SP]on[SP]people\nby[SP]yanking[SP]their[SP]pants[SP]down!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Et qu'est-ce que t'as avec tous tes grands discours!? T'es\nrien d'autre qu'un Roi des Caleçons pervert qui baisse le froc des gens"
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 66,
     "nom_orig": "Lisa",
     "texte_orig": "Undie[SP]Boss![SP]Undie[SP]Boss!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Roi des Caleçons! Roi des Caleçons!"
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 270,
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]rich,[SP]coming[SP]from[SP]you![SP]You're[SP]a\nfrickin'[SP]white[SP]girl[SP]but[SP]you[SP]talk[SP]Japanese,\nwhen[SP]you're[SP]not[SP]spouting[SP]nonsense[SP]words!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est culotté venant de toi! T'es une\nsale blanche mais tu parles japonais,\n sauf quand tu marmonnes des mots incompréhensibles!"
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 228,
     "nom_orig": "Eikichi",
     "texte_orig": "Do[SP]you[SP]even[SP]know[SP]what[SP]country[SP]you're[SP]from!?\nMaybe[SP]I[SP]should[SP]give[SP]you[SP]a[SP]name[SP]you[SP]can\nunderstand[SP]easier!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Est-ce que tu sais au moins d'où tu viens !?\n Peut-être que je devrais choisir un surnom que t'irais\nmieux!"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 114,
     "nom_orig": "Eikichi",
     "texte_orig": "You're[SP]Ginko[SP]from[SP]now[SP]on!\nGinko[SP]Ginko[SP]Ginko!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Maintenant tu t'appelleras Ginko ! Ginko Ginko Ginko!"
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 172,
     "nom_orig": "Ginko",
     "texte_orig": "Fanna![SP]No[SP]you[SP]don't![SP]You're[SP]not[SP]saddling\nme[SP]with[SP]a[SP]lame[SP]nickname[SP]like[SP]that!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Bon sang! Non! Tu vas pas m'appeller par un nom pareil!"
   },
   {
     "id": 19,
@@ -196,7 +196,7 @@
     "data_size": 138,
     "nom_orig": "???",
     "texte_orig": "Ooh![SP]Now[SP]what[SP]have[SP]we[SP]here?[E1][E2]\n[E3][E4][NULL][NULL]\"???\nCiaaao![SP]Wait[SP]a[SP]sec...",
-    "nom_fr": "",
+    "nom_fr": "???",
     "texte_fr": ""
   },
   {
